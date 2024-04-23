@@ -1,0 +1,17 @@
+org/example/mapper/AuthorMapperImpl.class
+org/example/dao/BookDAO.class
+org/example/dao/AuthorDAO.class
+org/example/servlet/BookServlet.class
+org/example/utils/BatisScriptUtility.class
+org/example/mapper/AuthorMapper.class
+org/example/dto/AuthorDto.class
+org/example/utils/DatabaseConnection.class
+org/example/servlet/ContextListener.class
+org/example/serializer/BookDtoSerializer.class
+org/example/entity/Author.class
+org/example/mapper/BookMapperImpl.class
+org/example/entity/Book.class
+org/example/dto/BookDto.class
+org/example/serializer/AuthorDtoSerializer.class
+org/example/mapper/BookMapper.class
+org/example/servlet/AuthorServlet.class
